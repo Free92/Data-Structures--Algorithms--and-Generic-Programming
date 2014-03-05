@@ -1,0 +1,2 @@
+		Analysis for Stack::clear() in proj3
+	The time complexity of Stack::clear() is based upon the time complexity of vector::clear() which is the underlying container in this class.  The time complexity of vector::clear() is linear in relation to vector::size().  So the it would be O(n). 

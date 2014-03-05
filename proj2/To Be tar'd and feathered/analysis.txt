@@ -1,0 +1,1 @@
+	The worst-case run-time complexity would be O(n), where n is the number of elements in the list.  Since all we are doing is changing location of the pointers for next and previous we only require one iterator through the list.  The amortized run-time for each node is simply O(1), so when we do O(1) N times, we get O(N).

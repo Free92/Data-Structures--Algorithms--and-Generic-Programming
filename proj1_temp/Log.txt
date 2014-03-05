@@ -1,0 +1,3 @@
+This is the log for proj1 in COP4530 Spring 2014.
+
+Version 0: Initial version trying to learn how to use github.

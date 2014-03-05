@@ -1,0 +1,47 @@
+This is the log for proj1 in COP4530 Spring 2014.
+
+Version 1.3: Day 3
+		1/31/14
+	To-Do:
+		-Change everything!
+		-Change char to string
+
+Version 1.2: Day 3
+		1/31/14
+	Done:
+		-Fixed displays.  Kind of a brutish way of getting it done, but it works.
+	To-Do:
+		-Fix sort()
+	Notes:
+		Going to try and implement a sort outside of the struct.  Actually.  I dunno. I'm tired. Gonna try and look for different ways around it. We'll see how that goes.
+
+Version 1.1.1: Day 2
+		1/30/14
+	Done:
+		-Change to templated struct
+		-Instantiate wordCounter and numCounter
+	To-Do:
+		-Fix displayResults()
+		-Fix sorter()
+
+Version 1.1: Day 2
+		1/30/14
+	Done:
+		-Finish all char stuff
+			-Display vector
+			-Sort Functions
+	To-Do:
+		-Read in words
+		-Read in numbers
+	Notes:
+		I think I may change the schema of this and use a templated struct, so that I don't have to repeat everything for char, strings, and words and everything.  That way I could just re-use the code and just make changes to adjust for other types.
+ 
+Version 1.0-1.0.1: Day 1
+		1/23/14
+	Got basic grasp of github and fixing some errors with compilation.  Have my makefile set up and got all of the chars read into a map.  Now I just have to sort it, and then do the other two functions.
+	To-Do:
+	--Sort the characters based on value and not key
+	--Split the chars into strings and integers and sort those
+	Overall it seems pretty easy and I think I should be able to finish it in time for office hours on Tuesday.
+
+Version 0: Initial version trying to learn how to use github.
